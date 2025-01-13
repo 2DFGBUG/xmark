@@ -75,4 +75,7 @@ nav{
     border: none;
     outline: none;
     border-radius: 5px;
+    text-decoration: none;
+    color: white;
 }
+
